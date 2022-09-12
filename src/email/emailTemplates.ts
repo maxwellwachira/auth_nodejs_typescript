@@ -44,8 +44,7 @@ const emailTemplates = {
         </body>
         </html>
         `;
-    }
-    
+    }  
 }
 
 export default emailTemplates;
