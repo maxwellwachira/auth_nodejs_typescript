@@ -1,10 +1,10 @@
-h1 align="center"><b>AUthenication - NodeJS, TypeScript</b></h1>
+<h1 align="center"><b>AUthenication - NodeJS, TypeScript</b></h1>
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://github.com/maxwellwachira/auth_nodejs_typescript.git)
 
 # Description
 
-This is Bearer Token authentication API built with NodeJS, express and Typescript.<br>
+This is a Bearer Token authentication API built with NodeJS, express and Typescript.<br>
 It has the following features
 - User CRUD
 - User Login
